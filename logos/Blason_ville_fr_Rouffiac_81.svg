@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="660"
+   id="svg27457"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Blason ville fr Rouffiac 81.svg"
+   inkscape:label="fond">
+  <metadata
+     id="metadata27490">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="675"
+     id="namedview27488"
+     showgrid="false"
+     inkscape:zoom="0.71667487"
+     inkscape:cx="251.16334"
+     inkscape:cy="330.00378"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer3"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="300,661.62734"
+       id="guide40040" />
+  </sodipodi:namedview>
+  <defs
+     id="defs27459">
+    <radialGradient
+       id="Gradient1"
+       gradientUnits="userSpaceOnUse"
+       cx="220"
+       cy="220"
+       r="405">
+      <stop
+         stop-color="#fff"
+         stop-opacity=".31"
+         offset="0"
+         id="stop27462" />
+      <stop
+         stop-color="#fff"
+         stop-opacity=".25"
+         offset=".19"
+         id="stop27464" />
+      <stop
+         stop-color="#6b6b6b"
+         stop-opacity=".125"
+         offset=".6"
+         id="stop27466" />
+      <stop
+         stop-opacity=".125"
+         offset="1"
+         id="stop27468" />
+    </radialGradient>
+    <clipPath
+       id="shield_cut">
+      <path
+         id="shield"
+         d="m 1.5,1.5 h 597 V 260 C 598.5,546.2 300,658.39 300,658.39 300,658.39 1.5,546.2 1.5,260 z"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#Gradient1"
+       id="radialGradient27514"
+       gradientUnits="userSpaceOnUse"
+       cx="220"
+       cy="220"
+       r="405" />
+    <g
+       id="s">
+      <g
+         id="c">
+        <path
+           id="t"
+           d="M 0,0 L 0,1 L 0.5,1 L 0,0 z"
+           transform="matrix(0.951057,0.309017,-0.309017,0.951057,0,-1)" />
+        <use
+           xlink:href="#t"
+           transform="scale(-1,1)"
+           id="use2144"
+           x="0"
+           y="0"
+           width="810"
+           height="540" />
+      </g>
+      <g
+         id="a">
+        <use
+           xlink:href="#c"
+           transform="matrix(0.309017,0.951057,-0.951057,0.309017,0,0)"
+           id="use2147"
+           x="0"
+           y="0"
+           width="810"
+           height="540" />
+        <use
+           xlink:href="#c"
+           transform="matrix(-0.809017,0.587785,-0.587785,-0.809017,0,0)"
+           id="use2149"
+           x="0"
+           y="0"
+           width="810"
+           height="540" />
+      </g>
+      <use
+         xlink:href="#a"
+         transform="scale(-1,1)"
+         id="use2151"
+         x="0"
+         y="0"
+         width="810"
+         height="540" />
+    </g>
+  </defs>
+  <use
+     id="layer4"
+     xlink:href="#shield"
+     style="fill:#000000"
+     x="0"
+     y="0"
+     width="600"
+     height="660" />
+  <g
+     id="layer3"
+     style="stroke:#000000;stroke-width:3"
+     clip-path="url(#shield_cut)">
+    <rect
+       width="100"
+       height="660"
+       id="rect27474"
+       x="-600"
+       y="0"
+       style="fill:#fcef3c"
+       transform="scale(-1,1)" />
+    <rect
+       x="-500"
+       width="100"
+       height="660"
+       id="rect27476"
+       y="0"
+       style="fill:#5ab532;fill-opacity:1"
+       transform="scale(-1,1)" />
+    <rect
+       x="-400"
+       width="100"
+       height="660"
+       id="rect27478"
+       y="0"
+       style="fill:#fcef3c"
+       transform="scale(-1,1)" />
+    <rect
+       x="-300"
+       width="100"
+       height="660"
+       id="rect27480"
+       y="0"
+       style="fill:#5ab532;fill-opacity:1"
+       transform="scale(-1,1)" />
+    <rect
+       x="-200"
+       width="100"
+       height="660"
+       id="rect27482"
+       y="0"
+       style="fill:#fcef3c"
+       transform="scale(-1,1)" />
+    <rect
+       x="-100"
+       width="100"
+       height="660"
+       id="rect27484"
+       y="0"
+       style="fill:#5ab532;fill-opacity:1"
+       transform="scale(-1,1)" />
+  </g>
+  <use
+     id="layer1"
+     xlink:href="#shield"
+     style="fill:none;stroke:#000000;stroke-width:3"
+     x="0"
+     y="0"
+     width="600"
+     height="660" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="fond" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="reflet"
+     sodipodi:insensitive="true">
+    <use
+       id="layer2"
+       xlink:href="#shield"
+       style="fill:url(#radialGradient27514)"
+       transform="translate(-0.5,0.61)"
+       x="0"
+       y="0"
+       width="600"
+       height="660" />
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff" stop-opacity=".3137255"/>
+      <stop offset=".19" stop-color="#fff" stop-opacity=".25098041"/>
+      <stop offset=".60000002" stop-color="#6b6b6b" stop-opacity=".1254902"/>
+      <stop offset="1" stop-opacity=".1254902"/>
+    </linearGradient>
+    <radialGradient id="c" cx="221.44487" cy="226.33101" r="300" fx="221.44487" fy="226.33101" gradientTransform="matrix(1.35322 0 0 1.34893 -77.62935 -85.74693)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+    <clipPath id="b">
+      <path fill="none" fill-rule="evenodd" stroke="#000" stroke-width="3.00000048" d="M299.94233 658.69128S1.442343 546.37092 1.442343 260.91928V1.7487772l596.999987-.0585938V260.91928c0 285.45164-298.5 397.772-298.5 397.772z"/>
+    </clipPath>
+  </defs>
+  <path fill="#fcef3c" fill-rule="evenodd" d="M0 0v260.43022C0 274.00965.6723151 287.19198 1.9472362 300H300V0zM300 300v358.5S570.47398 556.54316 596 300z"/>
+  <path fill="#fff" fill-rule="evenodd" d="M300 300v358.5S29.526015 556.54316 4 300zM600 0v260.43022c0 13.57944-.67231 26.76176-1.94723 39.56978H300V0z"/>
+  <path fill="#e20909" fill-rule="evenodd" stroke="#000" stroke-width="3.00000501" d="M231.57175 1.5870563V212.76171l-255.363907-1.58873c1.808255 51.73223-5.907862 91.75 35.667262 136.87429l219.696645.54933v275.68828c38.8726 28.52931 68.37059 42.80217 68.37059 42.80217s26.79446-12.36489 65.66582-40.89296l-.62503-277.4017 223.57712-1.35741c29.34777-53.73085 24.37979-89.22042 24.2104-136.80947l-247.16249 1.69423c-.63172-67.59468 0-136.380745 0-210.7326837z" clip-path="url(#b)"/>
+  <g>
+    <path fill="url(#c)" fill-rule="evenodd" d="M300.00001 658.5s298.5-112.32031 298.5-397.77183V2.1764865H1.5V260.72817C1.5 546.17969 300.00001 658.5 300.00001 658.5z"/>
+  </g>
+  <g>
+    <path fill="none" stroke="#000" stroke-width="3" d="M299.99999 658.39745S1.499882 546.0948 1.499882 260.68819V1.5585659l597.000228-.0585846V260.68819c0 285.40661-298.50012 397.70926-298.50012 397.70926z"/>
+  </g>
+</svg>

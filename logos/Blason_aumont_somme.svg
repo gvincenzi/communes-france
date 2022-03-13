@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="660">
+<defs>
+<radialGradient id="r" cx=".5" cy=".5" r="1">
+<stop stop-color="#FFF" offset="0"/>
+<stop stop-color="#555" offset="1"/>
+</radialGradient>
+</defs>
+
+<g stroke="#000" stroke-width="2">
+<path fill="#FD3" stroke-width="3"
+d="M2,2V308C9,460 200,635 300,657 400,635 591,460 598,308V2z"/>
+<path fill="#2b5df2" stroke-width="2" d="m3,3v147H597V3z
+M43,162a59,59 0 1,0 84,0 71,71 0 1,1-84,0
+m430,0a59,59 0 1,0 84,0 71,71 0 1,1-84,0
+M300,185l284,190-19,44-265-175-265,175-19-44z
+m0,130 192,128-26,39-166-110.7-166,110.7-26-39z 
+m0,130 120,80-26,39-94-62.7-94,62.7-26-39z"/>
+<path fill="#fff"
+d="m33,60h51l16-49 16,49h51l-41,30 16,49-41-30-41,30 16-49z
+m200,0h51l16-49 16,49h51l-41,30 16,49-41-30-41,30 16-49z
+m200,0h51l16-49 16,49h51l-41,30 16,49-41-30-41,30 16-49z"/>
+</g>
+<path fill="url(#r)" opacity=".2"
+d="M4,4V308C9,460 200,635 300,650 400,635 591,460 598,308V4z"/>
+</svg>

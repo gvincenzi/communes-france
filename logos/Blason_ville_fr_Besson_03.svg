@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660">
+<defs>
+<radialGradient cx="221" cy="226" r="400" id="r" gradientUnits="userSpaceOnUse">
+<stop stop-color="#fff" stop-opacity=".3" offset="0"/>
+<stop stop-color="#6b6b6b" stop-opacity=".1" offset=".6"/>
+<stop stop-opacity=".1" offset="1" />
+</radialGradient>
+<pattern patternUnits="userSpaceOnUse" height="660" width="600" id="p">
+<path fill="#2b5df2" d="m0,0h600v660H0"/>
+<g stroke-width="3" stroke="#000" fill="#fcef3c">
+<circle r="60" cy="72" cx="72" id="c"/>
+<circle r="60" cy="167" cx="167"/>
+<circle r="60" cy="262" cx="262"/>
+<circle r="60" cy="357" cx="357"/>
+<circle r="60" cy="452" cx="452"/>
+</g>
+<path fill="url(#r)" d="m0,0h600v660H0"/>
+</pattern>
+</defs>
+<path d="M2,2H598V260C598,450 465,600 300,658 135,590 2,450 2,260 z" fill="url(#p)" stroke="#000" stroke-width="3"/>
+</svg>

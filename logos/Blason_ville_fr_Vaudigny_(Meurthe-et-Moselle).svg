@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="660"
+   viewBox="-300 -300 600 660"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Blason_Vide_3D.svg">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview27"
+     showgrid="true"
+     showguides="false"
+     inkscape:zoom="0.50568849"
+     inkscape:cx="350.82646"
+     inkscape:cy="240.16578"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3006" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <radialGradient
+       id="Gradient1"
+       gradientUnits="userSpaceOnUse"
+       cx="-80"
+       cy="-80"
+       r="405">
+      <stop
+         style="stop-color:#fff;stop-opacity:0.31"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#fff;stop-opacity:0.25"
+         offset="0.19"
+         id="stop9" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.125"
+         offset="0.6"
+         id="stop11" />
+      <stop
+         style="stop-color:#000;stop-opacity:0.125"
+         offset="1"
+         id="stop13" />
+    </radialGradient>
+    <clipPath
+       id="shield_cut">
+      <path
+         id="shield"
+         d="M-298.5,-298.5 h597 v258.5 C 298.5,246.2 0,358.39 0,358.39 0,358.39 -298.5,246.2 -298.5,-40z" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer4"
+     inkscape:label="Fond écu"
+     inkscape:groupmode="layer">
+    <use
+       xlink:href="#shield"
+       fill="#e20909"
+       id="use18"
+       style="fill:#fcef3c" />
+  </g>
+  <g
+     id="layer3"
+     inkscape:label="Meubles"
+     inkscape:groupmode="layer">
+    <g
+       transform="matrix(1,0,0,1.1775781,1.0716656,-582.95347)"
+       id="g4528"
+       style="fill:#e20909;display:inline">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -332.93838,731.04342 c -61.48307,-0.24711 -122.966,-0.10595 -184.4491,-10e-6 30.92166,-53.06378 61.56023,-106.41345 92.22455,-159.7376 30.56139,53.42818 61.40576,106.56969 92.22455,159.73761 z"
+         transform="matrix(1.0188017,0,0,0.76972456,432.25388,-20.302239)"
+         id="path4384"
+         style="fill:#e20909;fill-opacity:1;stroke:#000000;stroke-width:3.12186337;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       id="path3029"
+       d="m -114.13799,-246.48532 a 74.001251,74.249578 0 1 1 -118.20334,0 59.598322,59.10167 0 1 0 118.20334,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#e20909;stroke:#000000;stroke-width:2.59834504;stroke-miterlimit:4;stroke-dasharray:none" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3029"
+       id="use3806"
+       transform="translate(346,0)"
+       width="600"
+       height="660" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3029"
+       id="use3808"
+       transform="translate(173.30085,400)"
+       width="600"
+       height="660" />
+  </g>
+  <g
+     id="layer2"
+     inkscape:label="Reflet final"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <use
+       xlink:href="#shield"
+       fill="url(#Gradient1)"
+       id="use22" />
+  </g>
+  <g
+     id="layer1"
+     inkscape:label="Contour final"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <use
+       xlink:href="#shield"
+       style="fill:none;stroke:#000;stroke-width:3"
+       id="use25" />
+  </g>
+</svg>

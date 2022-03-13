@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600"
+   height="660"
+   id="svg2383"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="Blason_ville_fr_Pézilla-de-Conflans-A_(Pyrénées-Orientales).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2385">
+    <clipPath
+       id="shield_cut">
+      <path
+         d="M -298.5,-298.5 L -298.5,183 C -298.5,312.05477 -66.85998,248.9482 0,358.5 C 66.85998,248.9482 298.5,312.05477 298.5,183 L 298.5,-298.5 L -298.5,-298.5 z"
+         id="shield" />
+    </clipPath>
+    <radialGradient
+       r="405"
+       cy="-80"
+       cx="-80"
+       gradientUnits="userSpaceOnUse"
+       id="Gradient1">
+      <stop
+         id="stop2521"
+         offset="0"
+         style="stop-color:#fff;stop-opacity:0.31" />
+      <stop
+         id="stop2523"
+         offset="0.19"
+         style="stop-color:#fff;stop-opacity:0.25" />
+      <stop
+         id="stop2525"
+         offset="0.6"
+         style="stop-color:#6b6b6b;stop-opacity:0.125" />
+      <stop
+         id="stop2527"
+         offset="1"
+         style="stop-color:#000;stop-opacity:0.125" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1621212"
+     inkscape:cx="300"
+     inkscape:cy="330"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="977"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:object-nodes="true"
+     objecttolerance="9" />
+  <metadata
+     id="metadata2388">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Fond écu"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-392.36218)">
+    <use
+       id="use2532"
+       xlink:href="#shield"
+       style="fill:#2b5df2"
+       x="0"
+       y="0"
+       width="744.09448"
+       height="1052.3622"
+       transform="translate(300,692.36218)" />
+    <g
+       id="layer3"
+       inkscape:label="Meubles"
+       transform="translate(300,692.36218)" />
+    <g
+       id="layer2"
+       inkscape:label="Reflet final"
+       transform="translate(300,692.36218)" />
+    <g
+       id="g2561"
+       inkscape:label="Contour final"
+       transform="translate(300,692.36218)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Meubles">
+    <g
+       transform="translate(0,-410.36218)"
+       id="g5392">
+      <g
+         inkscape:label="Calque 1"
+         id="g5381"
+         transform="translate(-331.09157,-359.38345)">
+        <path
+           d="M 631.04102,787.39621 L 564.59296,872.33549 L 631.04102,957.32815 L 698.26419,872.33549 L 631.04102,787.39621 z M 631.04102,827.07467 L 668.0456,872.33549 L 631.04102,917.98897 L 594.98393,872.33549 L 631.04102,827.07467 z"
+           style="fill:#fcef3c;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+           id="path4625" />
+      </g>
+      <use
+         height="660"
+         width="600"
+         transform="translate(200,0)"
+         id="use5384"
+         xlink:href="#g5381"
+         y="0"
+         x="0" />
+      <use
+         height="660"
+         width="600"
+         transform="translate(-200,0)"
+         id="use5386"
+         xlink:href="#g5381"
+         y="0"
+         x="0" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g5392"
+       id="use5407"
+       transform="translate(0,184)"
+       width="600"
+       height="660" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use5407"
+       id="use5409"
+       transform="translate(0,184)"
+       width="600"
+       height="660" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Reflet final"
+     sodipodi:insensitive="true">
+    <use
+       transform="translate(300,300)"
+       id="use2536"
+       xlink:href="#shield"
+       style="fill:url(#Gradient1)"
+       x="0"
+       y="0"
+       width="744.09448"
+       height="1052.3622" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Contour final"
+     sodipodi:insensitive="true">
+    <use
+       transform="translate(300,300)"
+       id="use2539"
+       style="fill:none;stroke:#000000;stroke-width:3"
+       xlink:href="#shield"
+       x="0"
+       y="0"
+       width="744.09448"
+       height="1052.3622" />
+  </g>
+</svg>

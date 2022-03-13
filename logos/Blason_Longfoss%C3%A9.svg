@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#fff" stop-opacity=".3137255"/>
+      <stop offset=".19" stop-color="#fff" stop-opacity=".25098041"/>
+      <stop offset=".60000002" stop-color="#6b6b6b" stop-opacity=".1254902"/>
+      <stop offset="1" stop-opacity=".1254902"/>
+    </linearGradient>
+    <radialGradient id="e" cx="285.18573" cy="200.44757" r="300" fx="285.18573" fy="200.44757" gradientTransform="matrix(1.55128 0 0 1.35034 -227.8943 -51.2635)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  </defs>
+  <path fill="#fff" d="M299.99993 658.5c0-38.50406 31.20317-69.75366 69.64996-69.75366h159.19992c38.4468 0 69.65008-31.24958 69.65008-69.75355V1.5002997L1.5000104 1.5003196 1.5000005 518.99279c0 38.50397 31.2031985 69.75355 69.6499935 69.75355H230.34995c38.44679 0 69.64998 31.2496 69.64998 69.75366z"/>
+  <path id="b" fill="#e20909" stroke="#000" stroke-linejoin="bevel" stroke-width="3" d="M56.5 41.855652h51.005409v136.64435H56.5z"/>
+  <use id="c" width="600" height="660" transform="translate(217.5)" xlink:href="#b"/>
+  <use width="600" height="660" transform="translate(111.82331 180)" xlink:href="#b"/>
+  <use width="600" height="660" transform="translate(107.70203 180)" xlink:href="#c"/>
+  <use id="d" width="600" height="660" transform="translate(435)" xlink:href="#b"/>
+  <use width="600" height="660" transform="translate(0 360)" xlink:href="#b"/>
+  <use width="600" height="660" transform="translate(0 360)" xlink:href="#c"/>
+  <use width="600" height="660" transform="translate(0 360)" xlink:href="#d"/>
+  <g>
+    <path fill="url(#e)" fill-rule="evenodd" d="M1.5 1.49974v517.49133c0 38.50449 31.2031 69.75453 69.65 69.75453h159.2c38.44691-.0001 69.65003 31.24994 69.65003 69.7544 0-38.50446 31.20314-69.7544 69.64994-69.7544 38.4469-.0001 120.7533 0 159.2001 0 38.4468 0 69.65-31.25004 69.65-69.75453V1.49974z"/>
+  </g>
+  <g>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.00000191" d="M300.00003 658.52106c0-38.50532 31.20319-69.75593 69.65-69.75593h159.19998c38.4468 0 69.6501-31.2506 69.6501-69.75582V1.499981L1.5000099 1.5000009 1.5 519.00931c0 38.50522 31.20321 69.75582 69.650019 69.75582H230.35003c38.44681 0 69.65 31.25061 69.65 69.75593z"/>
+  </g>
+</svg>

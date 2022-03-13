@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="660" viewBox="-300 -300 600 660">
+  <defs>
+    <radialGradient id="c" cx="-80" cy="-80" r="405" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".31"/>
+      <stop offset=".19" stop-color="#fff" stop-opacity=".25"/>
+      <stop offset=".6" stop-color="#6b6b6b" stop-opacity=".125"/>
+      <stop offset="1" stop-opacity=".125"/>
+    </radialGradient>
+    <path id="a" d="M-298.5-298.5h597V-40C298.5 246.2 0 358.39 0 358.39S-298.5 246.2-298.5-40z"/>
+    <clipPath id="b">
+      <use width="600" height="660" transform="translate(0 .46)" xlink:href="#a"/>
+    </clipPath>
+  </defs>
+  <use width="600" height="660" fill="#e20909" xlink:href="#a"/>
+  <path fill="#fcef3c" stroke="#000" stroke-width="3" d="M-198.5-299.015h97l.707 600.436c-38.142-20.525-68.468-55.08-97.707-82.726zm200 0h97v604.678c-31.616 18.875-63.52 37.175-97 52.322zm197.172 0H298.5V-1.906c-12.11 77.24-33.332 140.85-101.95 221.308z" clip-path="url(#b)" transform="scale(-1 1)"/>
+  <use width="600" height="660" fill="none" stroke="#000" stroke-width="3" xlink:href="#a"/>
+  <use fill="url(#c)" xlink:href="#a"/>
+</svg>

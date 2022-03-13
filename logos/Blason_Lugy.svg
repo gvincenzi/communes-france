@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="660"
+   width="600"
+   version="1.0"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="BlasonLugy.svg"
+   sodipodi:docbase="D:\Mes documents\Renaud-Notre Lapin"
+   inkscape:export-filename="/Users/olivier/Desktop/Blason Rouge/Blason_Vide_3D.png"
+   inkscape:export-xdpi="144"
+   inkscape:export-ydpi="144"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata49">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gabarit d'un blason en pointe pour le projet Blasons de Wikipédia</dc:title>
+        <dc:date>03-AUG-2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jérôme BLUM (wagner51)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>fr</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>gabarit modèle blason projet wikipédia</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="712"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     height="660px"
+     inkscape:zoom="0.76818149"
+     inkscape:cx="322.78107"
+     inkscape:cy="364.96254"
+     inkscape:window-x="239"
+     inkscape:window-y="176"
+     inkscape:current-layer="layer3"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="299.40841,66.390561"
+       id="guide10640" />
+  </sodipodi:namedview>
+  <desc
+     id="desc4">Flag of Canton of Valais (Wallis)</desc>
+  <defs
+     id="defs6">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 330 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="600 : 330 : 1"
+       inkscape:persp3d-origin="300 : 220 : 1"
+       id="perspective35" />
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         style="stop-color:white;stop-opacity:0.3137255;"
+         offset="0"
+         id="stop2895" />
+      <stop
+         id="stop2897"
+         offset="0.19"
+         style="stop-color:white;stop-opacity:0.25098041;" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;"
+         offset="0.60000002"
+         id="stop2901" />
+      <stop
+         style="stop-color:black;stop-opacity:0.1254902;"
+         offset="1"
+         id="stop2899" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2885">
+      <stop
+         id="stop2887"
+         offset="0"
+         style="stop-color:white;stop-opacity:1;" />
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0.22857143"
+         id="stop2891" />
+      <stop
+         id="stop2889"
+         offset="1"
+         style="stop-color:black;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2955">
+      <stop
+         id="stop2867"
+         offset="0"
+         style="stop-color:#fd0000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#e77275;stop-opacity:0.65882355;"
+         offset="0.5"
+         id="stop2873" />
+      <stop
+         style="stop-color:black;stop-opacity:0.32291666;"
+         offset="1"
+         id="stop2959" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2955"
+       id="radialGradient2961"
+       cx="225.52438"
+       cy="218.90099"
+       fx="225.52438"
+       fy="218.90099"
+       r="300"
+       gradientTransform="matrix(-4.167939e-4,2.182867,-1.884232,-3.599562e-4,615.5972,-289.1214)"
+       gradientUnits="userSpaceOnUse" />
+    <polygon
+       id="star"
+       transform="scale(53,53)"
+       points="0,-1 0.58778525,0.80901699 -0.95105652,-0.30901699 0.95105652,-0.30901699 -0.58778525,0.80901699 0,-1 " />
+    <clipPath
+       id="clip">
+      <path
+         d="M 0,-200 L 0,600 L 300,600 L 300,-200 L 0,-200 z "
+         id="path10" />
+    </clipPath>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2955"
+       id="radialGradient1911"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.167939e-4,2.182867,-1.884232,-3.599562e-4,615.5972,-289.1214)"
+       cx="225.52438"
+       cy="218.90099"
+       fx="225.52438"
+       fy="218.90099"
+       r="300" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2955"
+       id="radialGradient2865"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1.748721,-1.593162,-1.049767e-7,551.7876,-191.2898)"
+       cx="225.52438"
+       cy="218.90099"
+       fx="225.52438"
+       fy="218.90099"
+       r="300" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2955"
+       id="radialGradient2871"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1.386237,-1.323286,-5.741131e-8,-158.0823,-109.5408)"
+       cx="225.52438"
+       cy="218.90099"
+       fx="225.52438"
+       fy="218.90099"
+       r="300" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2893"
+       id="radialGradient3163"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.353218,0,0,1.348928,-77.62935,-85.74693)"
+       cx="221.44487"
+       cy="226.33101"
+       fx="221.44487"
+       fy="226.33101"
+       r="300" />
+    <style
+       id="style33"
+       type="text/css">
+  .Rand2 { stroke: #202020; stroke-width:30; }
+  .Rand4 { stroke: #202020; stroke-width:60; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Schwarz { fill: #000000; }
+  .Blau { fill: #0000ff; }
+  .Gold { fill: #ffef00; }
+  .Silber { fill: #ffffff; }
+  </style>
+    <clipPath
+       id="clippath">
+      <path
+         id="path31"
+         d="M360,4140 A3240,3240 0.0 0 0 6840,4140 L6840,270 L360,270 L360,4140 Z" />
+    </clipPath>
+    <circle
+       r="180"
+       cy="5715"
+       cx="4950"
+       id="wolke-20" />
+    <circle
+       r="180"
+       cy="6345"
+       cx="4590"
+       id="wolke-19" />
+    <circle
+       r="180"
+       cy="5895"
+       cx="2160"
+       id="wolke-18" />
+    <circle
+       r="180"
+       cy="5455"
+       cx="5740"
+       id="wolke-17" />
+    <circle
+       r="284"
+       cy="5985"
+       cx="4770"
+       id="wolke-16" />
+    <circle
+       r="284"
+       cy="5355"
+       cx="5040"
+       id="wolke-15" />
+    <circle
+       r="450"
+       cy="5805"
+       cx="5490"
+       id="wolke-14" />
+    <circle
+       r="284"
+       cy="5805"
+       cx="4680"
+       id="wolke-13" />
+    <circle
+       r="254"
+       cy="6435"
+       cx="4950"
+       id="wolke-12" />
+    <circle
+       r="202"
+       cy="6525"
+       cx="4500"
+       id="wolke-11" />
+    <circle
+       r="284"
+       cy="6165"
+       cx="4320"
+       id="wolke-10" />
+    <circle
+       r="202"
+       cy="6525"
+       cx="3960"
+       id="wolke-9" />
+    <circle
+       r="360"
+       cy="6075"
+       cx="3780"
+       id="wolke-8" />
+    <circle
+       r="450"
+       cy="6525"
+       cx="3330"
+       id="wolke-7" />
+    <circle
+       r="180"
+       cy="6435"
+       cx="2880"
+       id="wolke-6" />
+    <circle
+       r="270"
+       cy="6165"
+       cx="2430"
+       id="wolke-5" />
+    <circle
+       r="360"
+       cy="5985"
+       cx="2880"
+       id="wolke-4" />
+    <circle
+       r="202"
+       cy="5805"
+       cx="2430"
+       id="wolke-3" />
+    <circle
+       r="284"
+       cy="6165"
+       cx="1980"
+       id="wolke-2" />
+    <circle
+       r="450"
+       cy="5535"
+       cx="1890"
+       id="wolke-1" />
+    <inkscape:perspective
+       id="perspective153"
+       inkscape:persp3d-origin="219 : 160 : 1"
+       inkscape:vp_z="438 : 240 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 240 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective14"
+       inkscape:persp3d-origin="355.59589 : 306.40403 : 1"
+       inkscape:vp_z="711.19177 : 459.60605 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 459.60605 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <radialGradient
+       r="300"
+       fy="218.90099"
+       fx="225.52438"
+       cy="218.90099"
+       cx="225.52438"
+       gradientTransform="matrix(0,1.386237,-1.323286,-5.741131e-8,-158.0823,-109.5408)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient10631"
+       xlink:href="#linearGradient2955"
+       inkscape:collect="always" />
+    <radialGradient
+       r="300"
+       fy="218.90099"
+       fx="225.52438"
+       cy="218.90099"
+       cx="225.52438"
+       gradientTransform="matrix(0,1.748721,-1.593162,-1.049767e-7,551.7876,-191.2898)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient10629"
+       xlink:href="#linearGradient2955"
+       inkscape:collect="always" />
+    <radialGradient
+       r="300"
+       fy="218.90099"
+       fx="225.52438"
+       cy="218.90099"
+       cx="225.52438"
+       gradientTransform="matrix(-4.167939e-4,2.182867,-1.884232,-3.599562e-4,615.5972,-289.1214)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient10627"
+       xlink:href="#linearGradient2955"
+       inkscape:collect="always" />
+    <clipPath
+       id="clipPath10623">
+      <path
+         id="path10625"
+         d="M 0,-200 L 0,600 L 300,600 L 300,-200 L 0,-200 z " />
+    </clipPath>
+    <polygon
+       points="0,-1 0.58778525,0.80901699 -0.95105652,-0.30901699 0.95105652,-0.30901699 -0.58778525,0.80901699 0,-1 "
+       transform="scale(53,53)"
+       id="polygon10621" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-4.167939e-4,2.182867,-1.884232,-3.599562e-4,615.5972,-289.1214)"
+       r="300"
+       fy="218.90099"
+       fx="225.52438"
+       cy="218.90099"
+       cx="225.52438"
+       id="radialGradient10619"
+       xlink:href="#linearGradient2955"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient10611">
+      <stop
+         style="stop-color:#fd0000;stop-opacity:1;"
+         offset="0"
+         id="stop10613" />
+      <stop
+         id="stop10615"
+         offset="0.5"
+         style="stop-color:#e77275;stop-opacity:0.65882355;" />
+      <stop
+         id="stop10617"
+         offset="1"
+         style="stop-color:black;stop-opacity:0.32291666;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10603">
+      <stop
+         style="stop-color:white;stop-opacity:1;"
+         offset="0"
+         id="stop10605" />
+      <stop
+         id="stop10607"
+         offset="0.22857143"
+         style="stop-color:white;stop-opacity:1;" />
+      <stop
+         style="stop-color:black;stop-opacity:1;"
+         offset="1"
+         id="stop10609" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10593">
+      <stop
+         id="stop10595"
+         offset="0"
+         style="stop-color:white;stop-opacity:0.3137255;" />
+      <stop
+         style="stop-color:white;stop-opacity:0.25098041;"
+         offset="0.19"
+         id="stop10597" />
+      <stop
+         id="stop10599"
+         offset="0.60000002"
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;" />
+      <stop
+         id="stop10601"
+         offset="1"
+         style="stop-color:black;stop-opacity:0.1254902;" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective32"
+       inkscape:persp3d-origin="300 : 219.80208 : 1"
+       inkscape:vp_z="600 : 329.70312 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 329.70312 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Fond écu"
+     style="display:inline">
+    <path
+       id="path2855"
+       style="fill:#2b5df2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 300,658.5 C 300,658.5 598.50001,546.17969 598.50001,260.72817 C 598.50001,-24.723354 598.50001,2.1764765 598.50001,2.1764765 L 1.5,2.1764765 L 1.5,260.72817 C 1.5,546.17969 300,658.5 300,658.5 z"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="g35"
+       transform="matrix(6.6667e-2,0,0,6.6667e-2,-379.18493,120.82732)"
+       stroke-miterlimit="10"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10">
+      <g
+         id="g37"
+         clip-path="url(#clippath)">
+        <use
+           id="use65"
+           href="#wolke-1"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use67"
+           href="#wolke-2"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use69"
+           href="#wolke-3"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use71"
+           href="#wolke-4"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use73"
+           href="#wolke-5"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use75"
+           href="#wolke-6"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use77"
+           href="#wolke-7"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use79"
+           href="#wolke-8"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use81"
+           href="#wolke-9"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use83"
+           href="#wolke-10"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use85"
+           href="#wolke-11"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use87"
+           href="#wolke-12"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use89"
+           href="#wolke-13"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use91"
+           href="#wolke-14"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use93"
+           href="#wolke-15"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use95"
+           href="#wolke-16"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use97"
+           href="#wolke-17"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use99"
+           href="#wolke-18"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use101"
+           href="#wolke-19"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use103"
+           href="#wolke-20"
+           class="Rand4"
+           style="stroke:#202020;stroke-width:60"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use105"
+           href="#wolke-1"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use107"
+           href="#wolke-2"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use109"
+           href="#wolke-3"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use111"
+           href="#wolke-4"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use113"
+           href="#wolke-5"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use115"
+           href="#wolke-6"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use117"
+           href="#wolke-7"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use119"
+           href="#wolke-8"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use121"
+           href="#wolke-9"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use123"
+           href="#wolke-10"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use125"
+           href="#wolke-11"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use127"
+           href="#wolke-12"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use129"
+           href="#wolke-13"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use131"
+           href="#wolke-14"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use133"
+           href="#wolke-15"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use135"
+           href="#wolke-16"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use137"
+           href="#wolke-17"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use139"
+           href="#wolke-18"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use141"
+           href="#wolke-19"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+        <use
+           id="use143"
+           href="#wolke-20"
+           class="Silber"
+           style="fill:#ffffff"
+           x="0"
+           y="0"
+           width="600"
+           height="660" />
+      </g>
+    </g>
+    <g
+       transform="translate(-4.7680589,-2.9533996)"
+       style="opacity:1;display:inline"
+       inkscape:label="bordure"
+       id="g10633">
+      <g
+         transform="matrix(0.996258,0,0,0.998195,1.136031,1.19688)"
+         id="g2315">
+        <path
+           style="fill:#fcef3c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+           d="M 3.64567,3.5469 L 3.64567,5.0469 L 3.64567,263.57815 C 3.64567,550.07539 303.11442,662.76565 303.11442,662.76565 L 303.64567,662.95315 L 304.17692,662.76565 C 304.17691,662.76566 603.64567,550.07538 603.64567,263.57815 C 603.64567,120.8524 603.64567,56.21702 603.64567,27.26565 C 603.64566,13.61362 603.64567,8.7777103 603.64567,6.5469 C 603.64566,6.41231 603.64567,5.40708 603.64567,5.2969 C 603.64566,4.8128 603.64567,4.56773 603.64567,4.45315 C 603.64566,4.42451 603.64567,4.40268 603.64567,4.39065 C 603.64566,4.38464 603.64567,4.36176 603.64567,4.3594 C 603.64566,4.3592 602.89567,4.35933 602.14567,4.3594 L 602.14567,3.5469 L 5.14567,3.5469 L 3.64567,3.5469 z M 88.39567,78.6094 L 525.23942,78.6094 C 525.2394,80.378651 525.23942,83.816367 525.23942,93.89065 C 525.2394,115.76977 525.23942,164.62588 525.23942,272.4844 C 525.2394,485.60459 310.00342,570.21817 306.83317,571.45315 C 303.80309,570.27343 88.39567,485.6754 88.39567,272.4844 L 88.39567,78.6094 z"
+           id="path5919" />
+        <path
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;display:inline"
+           d="M 86.35545,78.269521 L 523.19921,78.269521 C 523.19921,80.038771 523.19921,83.476481 523.19921,93.550771 C 523.19921,115.42989 523.19921,164.286 523.19921,272.14452 C 523.19921,485.26471 307.9632,569.87829 304.79295,571.11327 C 301.76286,569.93355 86.35545,485.33552 86.35545,272.14452 L 86.35545,78.269521 z"
+           id="path7695" />
+      </g>
+    </g>
+    <path
+       id="path10638"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;display:inline;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 302.01195,406.60628 C 302.01195,406.60628 400.03851,369.28558 400.03851,274.43851 C 400.03851,179.59144 400.03851,188.52945 400.03851,188.52945 L 203.98541,188.52945 L 203.98541,274.43851 C 203.98541,369.28558 302.01195,406.60628 302.01195,406.60628 z"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#2b5df2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="path10642"
+       sodipodi:cx="-184.20126"
+       sodipodi:cy="168.57967"
+       sodipodi:rx="21.4793"
+       sodipodi:ry="29.289953"
+       d="M -162.72196,168.57967 A 21.4793,29.289953 0 1 1 -162.7655,166.71569"
+       sodipodi:start="0"
+       sodipodi:end="6.2195034"
+       sodipodi:open="true"
+       transform="matrix(1.141163,0,0,0.8368529,459.91087,98.923618)" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path10642"
+       id="use10644"
+       transform="translate(98.934953,3.9416182e-7)"
+       width="600"
+       height="660" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use10644"
+       id="use10646"
+       transform="translate(-49.233747,84.615421)"
+       width="600"
+       height="660" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Meubles" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Reflet final"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:nodetypes="cccccc"
+       d="M 300.00001,658.5 C 300.00001,658.5 598.50001,546.17969 598.50001,260.72817 C 598.50001,-24.723334 598.50001,2.1764865 598.50001,2.1764865 L 1.5,2.1764865 L 1.5,260.72817 C 1.5,546.17969 300.00001,658.5 300.00001,658.5 z "
+       style="opacity:1;fill:url(#radialGradient3163);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2875"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Contour final"
+     sodipodi:insensitive="true">
+    <path
+       sodipodi:nodetypes="cccccc"
+       d="M 299.99999,658.50028 C 299.99999,658.50028 1.5,546.17992 1.5,260.72828 C 1.5,-24.723336 1.5,2.1764957 1.5,2.1764957 L 598.49999,2.1764957 L 598.49999,260.72828 C 598.49999,546.17992 299.99999,658.50028 299.99999,658.50028 z "
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1411"
+       inkscape:export-xdpi="144"
+       inkscape:export-ydpi="144" />
+  </g>
+</svg>
